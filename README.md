@@ -15,3 +15,4 @@ This is a quick reference for common commands.
 12.	Git: `git merge` - Merge branches.
 13.	Linux: `mv` - Move or rename files.
 14.	Git: `git push` - Upload local repo to remote.
+15.	Linux: `grep` - Search text using patterns.
