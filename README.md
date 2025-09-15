@@ -7,3 +7,4 @@ This is a quick reference for common commands.
 4.	Git: `git add` - Stage changes for commit.
 5.	Linux: `pwd` - Print working directory.
 6.	Git: `git commit` - Record staged changes.
+7.	Linux: `mkdir` - Create a directory.
