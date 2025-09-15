@@ -11,3 +11,4 @@ This is a quick reference for common commands.
 8.	Git: `git branch` - List or create branches.
 9.	Linux: `rm` - Remove files or directories.
 10.	Git: `git checkout` - Switch branches.
+11.	Linux: `cp` - Copy files or directories.
