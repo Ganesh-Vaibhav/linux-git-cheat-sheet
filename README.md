@@ -13,3 +13,4 @@ This is a quick reference for common commands.
 10.	Git: `git checkout` - Switch branches.
 11.	Linux: `cp` - Copy files or directories.
 12.	Git: `git merge` - Merge branches.
+13.	Linux: `mv` - Move or rename files.
