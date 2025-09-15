@@ -14,3 +14,4 @@ This is a quick reference for common commands.
 11.	Linux: `cp` - Copy files or directories.
 12.	Git: `git merge` - Merge branches.
 13.	Linux: `mv` - Move or rename files.
+14.	Git: `git push` - Upload local repo to remote.
