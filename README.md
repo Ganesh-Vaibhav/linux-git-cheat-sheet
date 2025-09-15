@@ -5,3 +5,4 @@ This is a quick reference for common commands.
 2.	Git: `git init` - Initialize a new repository. 
 3.	Linux: `cd` - Change directory.
 4.	Git: `git add` - Stage changes for commit.
+5.	Linux: `pwd` - Print working directory.
